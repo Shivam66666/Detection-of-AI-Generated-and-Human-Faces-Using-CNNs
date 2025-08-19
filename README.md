@@ -1,0 +1,1 @@
+# Detection-of-AI-Generated-and-Human-Faces-Using-CNNs
